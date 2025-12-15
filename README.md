@@ -1,28 +1,28 @@
 # Ken Kudo
 
-CS Student | Sytem & Software Engineer
+CS Student | Systems & Software Engineer at Eötvös Loránd University
 
 ---
 
-## Focus
+## 🔍 Focus
 Interested in **how systems fail** and how design choices create vulnerabilities.  
 I work close to compilers, operating systems, concurrency, and networks.
 
 ---
 
-## Core
+## 🧠 Core
 - Compiler construction (Flex / Bison / ASM)
 - Concurrent & distributed systems
 - Secure system design
 - Revit API Plugins
 - Architecture-level refactoring
-  
----
-
-## Stack
- C++ / Java / Python / C# / JavaScript / php 
 
 ---
 
-## Learning
+## 🛠 Stack
+C++ / Java / Python / C# / JavaScript / PHP
+
+---
+
+## 📚 Learning
 Security engineering, Cloud & SRE

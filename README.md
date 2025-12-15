@@ -14,14 +14,9 @@ I work close to compilers, operating systems, concurrency, and networks.
 - Compiler construction (Flex / Bison / ASM)
 - Concurrent & distributed systems
 - Secure system design
+- Revit API Plugins
 - Architecture-level refactoring
-
----
-
-## Projects
-- **While Language Compiler** — pointer/time/complex extensions, NASM codegen  
-- **Revit API Plugins** — MVC, Strategy / Factory  
-
+  
 ---
 
 ## Stack

@@ -1,45 +1,33 @@
 # Ken Kudo
 
-CS Student | Software Engineer
+CS Student | Sytem & Software Engineer
 
 ---
 
-## Philosophy
-I am interested in **how systems fail**,  
-and how design decisions create vulnerabilities.
-
-I enjoy working close to:
-- compilers
-- operating systems
-- concurrency
-- networked systems
+## Focus
+Interested in **how systems fail** and how design choices create vulnerabilities.  
+I work close to compilers, operating systems, concurrency, and networks.
 
 ---
 
-## Core Areas
+## Core
 - Compiler construction (Flex / Bison / ASM)
-- Concurrent & distributed programming
+- Concurrent & distributed systems
 - Secure system design
 - Architecture-level refactoring
 
 ---
 
 ## Projects
-- **While Language Compiler**
-  - pointer / time / complex type extensions
-  - NASM code generation
-- **Revit API Plugins**
-  - MVC architecture
-  - Strategy / Factory patterns
-- **Distributed Communication (RabbitMQ, Go)**
+- **While Language Compiler** — pointer/time/complex extensions, NASM codegen  
+- **Revit API Plugins** — MVC, Strategy / Factory  
 
 ---
 
-## Languages
-C / C++ / Java / Python / C# / JavaScript
+## Stack
+ C++ / Java / Python / C# / JavaScript / php 
 
 ---
 
-## Currently Learning
-- Advanced security engineering
-- Cloud infrastructure & SRE basics
+## Learning
+Security engineering, Cloud & SRE

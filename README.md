@@ -1,16 +1,45 @@
-## Hi there 👋
+# Ken Kudo
 
-<!--
-**kenkudo01/kenkudo01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS Student | Software Engineer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Philosophy
+I am interested in **how systems fail**,  
+and how design decisions create vulnerabilities.
+
+I enjoy working close to:
+- compilers
+- operating systems
+- concurrency
+- networked systems
+
+---
+
+## Core Areas
+- Compiler construction (Flex / Bison / ASM)
+- Concurrent & distributed programming
+- Secure system design
+- Architecture-level refactoring
+
+---
+
+## Projects
+- **While Language Compiler**
+  - pointer / time / complex type extensions
+  - NASM code generation
+- **Revit API Plugins**
+  - MVC architecture
+  - Strategy / Factory patterns
+- **Distributed Communication (RabbitMQ, Go)**
+
+---
+
+## Languages
+C / C++ / Java / Python / C# / JavaScript
+
+---
+
+## Currently Learning
+- Advanced security engineering
+- Cloud infrastructure & SRE basics
